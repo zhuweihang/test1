@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="KHXXTS">
+    <body>
+        <input>
+            <channelId>1</channelId>
+            <clientName>广东商户注册</clientName>
+            <provinceno>410000</provinceno>
+            <dispatch>0</dispatch>
+            <nsrsbh>554433222100002</nsrsbh>
+            <businessAddress>广东省</businessAddress>
+            <tel>17019131949</tel>
+            <openBank>招商银行</openBank>
+            <accountNo>6226090219298748</accountNo>
+            <phone>17019131949</phone>
+            <salerMobile>13599999999</salerMobile>
+            <sbbh>33498201137581</sbbh>
+            <hxbbh>499111004288</hxbbh>
+            <xmmc>餐饮</xmmc>
+            <defautGoods>餐饮服务</defautGoods>
+            <goodsId>3070401000000000000</goodsId>
+            <taxRate>0.06</taxRate>
+            <kpr>广东百望</kpr>
+        </input>
+    </body>
+</business>

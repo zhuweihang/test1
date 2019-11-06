@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="SPBMSC">
+    <body>
+        <input>
+            <bm>101010202000000000001</bm>
+            <jsbh>123412431234124~~123412433123412</jsbh>
+            <nsrsbh></nsrsbh>
+        </input>
+    </body>
+</business>

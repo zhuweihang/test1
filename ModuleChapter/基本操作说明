@@ -1,0 +1,57 @@
+启动命令：
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8898 -c startup1.json
+解决moco框架中文乱码的问题：
+在Response中添加设置编码格式为“GBK”
+"headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+method表示请求的方式
+"method":"get"
+get请求带参数，在请求中参数配置
+     "queries":{
+        "name":"huhansan",
+        "age":"18"
+      }
+
+热部署：不需要重启，保存自动加载
+带参数get请求方式
+http://127.0.0.1:8890/getwithparam?name=huhansan&age=18
+
+浏览器只能访问get请求，post请求需要用jmeter或者postman
+
+post请求的带参数
+"forms":{
+"name":"huhansan",
+"sex":"man"
+}
+
+带cookies信息的get请求，在请求中加上cookies信息
+"cookies":{
+        "login":"true"
+      }
+cookie信息：key:value形式
+cookies信息 是包含用户信息的小文本文件  储存在用户本地终端上的数据
+是在Http协议下，服务器或脚本可以维护客户工作站上信息的一种方式
+post请求带json格式
+  "json":{
+        "name":"huhansan",
+        "age":"18"
+      }
+cookie与session
+cookie在客户端的头信息中
+session在服务端进行存储，文件、数据库等都可以（缓存数据库，比如redis）
+一般来说session的验证需要cookie携带一个字段来表示这个用户是哪一个session，当客户端禁用cookie，session会失效。
+
+cookie的总结
+cookie就是一小段文本信息
+cookie的格式key:value;key:value
+cookie 的值由服务端生成，客户端保存
+
+重定向到百度
+"redirectTo":"http://baidu.com"
+
+测试框架：HTTPclient 模拟Http请求的一个框架
+
+获取接口返回的响应状态码
+int statusCode = response.getStatusLine().getStatusCode();
+

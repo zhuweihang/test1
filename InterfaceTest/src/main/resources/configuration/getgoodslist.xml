@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="SPBM">
+    <body>
+        <input>
+            <nsrsbh></nsrsbh>
+            <jsbh>123412431234124~~123412433123412</jsbh>
+        </input>
+    </body>
+</business>

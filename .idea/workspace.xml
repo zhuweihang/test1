@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c3286ab-7e2d-43b1-91fc-14547bff21a3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/InterfaceTest/target/" />
+    <ignored path="$PROJECT_DIR$/httpclient/target/" />
+    <ignored path="$PROJECT_DIR$/SpringChapter/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter11/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter12/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetAccessToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/HttpClientAuth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="119" column="69" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="69" />
+              <folding>
+                <element signature="method#makeInvoiceYouhui#0;class#HttpClientAuth#0" />
+                <element signature="method#makeInvoiceZhengchangKaipiao#0;class#HttpClientAuth#0" />
+                <element signature="method#ZhengchangKaipiao2#0;class#HttpClientAuth#0" />
+                <element signature="method#InexistenceRate#0;class#HttpClientAuth#0" />
+                <element signature="method#PreferentialMakeInvoice#0;class#HttpClientAuth#0" />
+                <element signature="method#Discount#0;class#HttpClientAuth#0" />
+                <element signature="method#makeInvoiceduohang#0;class#HttpClientAuth#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/zhengchangkaipiao1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aesEncrypt</find>
+      <find>kyzt</find>
+      <find>zhengchang</find>
+      <find>zheng</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/duohangshangpin.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/getgoodslist.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/ecodingdelete.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/defaultencodingsetting.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/encodingsetting.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/youhuizhengcekaipiao.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/zuidaxianzhicount.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/juanpiao/maxjuanpiao.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/query/query.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/invalidInvoice/invalidInvoice.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/NoMakeInivoce.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/weikaipiaonumber.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/query/QueryInvoiceStatistics.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/PageMarginSetting/PageMarginSetting.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/terminalQuery.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/youhuikaipiao.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/query/InvoicePrintingQuery.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/smartprint/smartprint.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantPush/GetAccessToken.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantQuery/GetAccessToken.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/query/merchantsquery.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/MerchantInformationPush/MerchantInformationPush.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantPush/MerchantPush.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/testCase/ShuzuTest.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/FushuKaiPiao.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/MaxCountMakeInvoice.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/NoMakeInvoice.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/ReadFile.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/invoiceInvalid/InvalidInvoice.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/DeviceQuery.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/EncodingSetting.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/InvoicePrintingQuery.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/QueryInvoiceStatistical.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/QuerySpbm.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantQuery/MerchantQuery.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/PageMarginSetting/PageMarginSetting.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/Query/HttpClientQueryAuth.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/smartprint/SmartPrint.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/Openplatform/Encrypt.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/test/java/com/test/Demo1.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/GetAccessToken.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/zengpu/zengpu.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetZengPuInvoice.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetJuanPiao.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/juanpiao/juanpiao.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/zengzhuan/zengzhuan.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetZengZhuanInvoice.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/testCase/ThirdInvoiceIncoming.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetAccessToken.java" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/zhengchangkaipiao1.xml" />
+        <option value="$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/HttpClientAuth.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="125" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/IdeaProjects/InterfaceAutoTest/Chapter12/pom.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558496491088" />
+    <property name="last_opened_file_path" value="D:/WORKSPACE/sms/smstest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\InterfaceTest\src\main\resources\juanpiao" />
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\InterfaceTest\src\main\resources\kaipiao" />
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\InterfaceTest\src\main\resources\query" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\InterfaceTest\src\main\java\com\shuzutech\Openplatform" />
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\Chapter12\src\main\resources" />
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\SpringChapter\src\main\java\hello" />
+      <recent name="D:\IdeaProjects\InterfaceAutoTest\ModuleChapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shuzutech.interfacetest.merchantQuery" />
+      <recent name="com.shuzutech.interfacetest.merchantPush" />
+      <recent name="com.shuzutech.interfacetest.deviceQuery" />
+      <recent name="com.shuzutech.interfacetest.buquantaitou" />
+      <recent name="com.shuzutech.interfacetest.Query" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shuzutech.interfacetest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.17896175" />
+  </component>
+  <component name="RunManager" selected="TestNG.HttpClientAuth.ZhengchangKaipiao1">
+    <configuration name="ThirdInvoiceIncoming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuzutech.interfacetest.testCase.ThirdInvoiceIncoming" />
+      <module name="InterfaceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzutech.interfacetest.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetJuanPiao.juanMakeInvoice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzutech.interfacetest.makeInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shuzutech.interfacetest.makeInvoice" />
+      <option name="MAIN_CLASS_NAME" value="com.shuzutech.interfacetest.makeInvoice.GetJuanPiao" />
+      <option name="METHOD_NAME" value="juanMakeInvoice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetZengPuInvoice.zengPuMakeInvoice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzutech.interfacetest.makeInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shuzutech.interfacetest.makeInvoice" />
+      <option name="MAIN_CLASS_NAME" value="com.shuzutech.interfacetest.makeInvoice.GetZengPuInvoice" />
+      <option name="METHOD_NAME" value="zengPuMakeInvoice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetZengZhuanInvoice.getZhuanInvoice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzutech.interfacetest.makeInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shuzutech.interfacetest.makeInvoice" />
+      <option name="MAIN_CLASS_NAME" value="com.shuzutech.interfacetest.makeInvoice.GetZengZhuanInvoice" />
+      <option name="METHOD_NAME" value="getZhuanInvoice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientAuth.ZhengchangKaipiao1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuzutech.interfacetest.makeInvoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shuzutech.interfacetest.makeInvoice" />
+      <option name="MAIN_CLASS_NAME" value="com.shuzutech.interfacetest.makeInvoice.HttpClientAuth" />
+      <option name="METHOD_NAME" value="ZhengchangKaipiao1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.57 " type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.57" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_InterfaceAutoTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51924" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThirdInvoiceIncoming" />
+      <item itemvalue="TestNG.HttpClientAuth.ZhengchangKaipiao1" />
+      <item itemvalue="TestNG.GetZengPuInvoice.zengPuMakeInvoice" />
+      <item itemvalue="TestNG.GetJuanPiao.juanMakeInvoice" />
+      <item itemvalue="TestNG.GetZengZhuanInvoice.getZhuanInvoice" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.57 " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HttpClientAuth.ZhengchangKaipiao1" />
+        <item itemvalue="Application.ThirdInvoiceIncoming" />
+        <item itemvalue="TestNG.GetZengZhuanInvoice.getZhuanInvoice" />
+        <item itemvalue="TestNG.GetJuanPiao.juanMakeInvoice" />
+        <item itemvalue="TestNG.GetZengPuInvoice.zengPuMakeInvoice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3286ab-7e2d-43b1-91fc-14547bff21a3" name="Default Changelist" comment="" />
+      <created>1554612431465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554612431465</updated>
+      <workItem from="1554612435269" duration="14628000" />
+      <workItem from="1554634528761" duration="14000" />
+      <workItem from="1554687023360" duration="9167000" />
+      <workItem from="1554772638927" duration="3178000" />
+      <workItem from="1554780977484" duration="10755000" />
+      <workItem from="1554868814507" duration="13359000" />
+      <workItem from="1554946345609" duration="7493000" />
+      <workItem from="1555049337026" duration="1214000" />
+      <workItem from="1555056717936" duration="7209000" />
+      <workItem from="1555150320192" duration="2939000" />
+      <workItem from="1555221507399" duration="8091000" />
+      <workItem from="1555291665765" duration="16381000" />
+      <workItem from="1555377930531" duration="173000" />
+      <workItem from="1555378354117" duration="8489000" />
+      <workItem from="1555464388806" duration="1244000" />
+      <workItem from="1555550561163" duration="1260000" />
+      <workItem from="1555637734487" duration="21249000" />
+      <workItem from="1555896891049" duration="8984000" />
+      <workItem from="1555983078195" duration="23343000" />
+      <workItem from="1556068821410" duration="20602000" />
+      <workItem from="1556098061079" duration="5243000" />
+      <workItem from="1556155840828" duration="15636000" />
+      <workItem from="1556242679038" duration="18009000" />
+      <workItem from="1556335530155" duration="1433000" />
+      <workItem from="1556350066212" duration="1793000" />
+      <workItem from="1556415023090" duration="12333000" />
+      <workItem from="1556455364439" duration="5209000" />
+      <workItem from="1556503989096" duration="3253000" />
+      <workItem from="1556509782320" duration="3908000" />
+      <workItem from="1556519173352" duration="12827000" />
+      <workItem from="1556587603631" duration="12446000" />
+      <workItem from="1557023010352" duration="14061000" />
+      <workItem from="1557108471217" duration="8033000" />
+      <workItem from="1557192464915" duration="21516000" />
+      <workItem from="1557281202537" duration="18430000" />
+      <workItem from="1557365067719" duration="14310000" />
+      <workItem from="1557451833047" duration="11497000" />
+      <workItem from="1557731633794" duration="10250000" />
+      <workItem from="1557797425847" duration="25958000" />
+      <workItem from="1557839269928" duration="1644000" />
+      <workItem from="1557884155571" duration="20013000" />
+      <workItem from="1557970611881" duration="21435000" />
+      <workItem from="1558056956192" duration="16119000" />
+      <workItem from="1558315694520" duration="15868000" />
+      <workItem from="1558402215778" duration="22123000" />
+      <workItem from="1558489143783" duration="5689000" />
+      <workItem from="1558523577526" duration="303000" />
+      <workItem from="1558576291277" duration="1248000" />
+      <workItem from="1558580809800" duration="3779000" />
+      <workItem from="1558671269235" duration="12356000" />
+      <workItem from="1558941096465" duration="6946000" />
+      <workItem from="1559029854123" duration="3773000" />
+      <workItem from="1560252600145" duration="472000" />
+      <workItem from="1560912266614" duration="1563000" />
+      <workItem from="1560927891979" duration="10000" />
+      <workItem from="1560928018938" duration="131000" />
+      <workItem from="1560930195797" duration="780000" />
+      <workItem from="1560931137667" duration="3116000" />
+      <workItem from="1560998680466" duration="585000" />
+      <workItem from="1561601705855" duration="1000" />
+      <workItem from="1561602224063" duration="33000" />
+      <workItem from="1561603345274" duration="13459000" />
+      <workItem from="1562039392318" duration="11272000" />
+      <workItem from="1562120453120" duration="6513000" />
+      <workItem from="1562206228762" duration="3142000" />
+      <workItem from="1562309216314" duration="6201000" />
+      <workItem from="1562663739387" duration="3068000" />
+      <workItem from="1562725164292" duration="14384000" />
+      <workItem from="1562810893713" duration="7382000" />
+      <workItem from="1562899415252" duration="9068000" />
+      <workItem from="1563157211022" duration="12441000" />
+      <workItem from="1565943301791" duration="730000" />
+      <workItem from="1566007460245" duration="1543000" />
+      <workItem from="1566456986807" duration="127000" />
+      <workItem from="1566973014122" duration="2040000" />
+      <workItem from="1572944130971" duration="1105000" />
+      <workItem from="1572950233755" duration="96000" />
+      <workItem from="1573011502570" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 14h 49m 22s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 14h 50m 27s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 14h 52m 43s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 15h 05m 44s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 15h 06m 20s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 16h 09m 12s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.07.12 at 16h 09m 37s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.08.28 at 14h 30m 53s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.08.28 at 14h 36m 55s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HttpClientAuth_ZhengchangKaipiao1 - 2019.08.28 at 14h 41m 37s.xml">
+      <configuration name="HttpClientAuth.ZhengchangKaipiao1" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="626795000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36685553" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.29339477" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4423963" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32718894" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" visible="true" weight="0.34153846" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.30878186" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.40860215" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32718894" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" sideWeight="0.49798927" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32718894" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/fushukaipiao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/weikaipiaonumber.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/query/query.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/query/QueryInvoiceStatistics.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/youhuikaipiao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/configuration/terminalQuery.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/PageMarginSetting/PageMarginSetting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/query/InvoicePrintingQuery.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/smartprint/smartprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/MerchantInformationPush/MerchantInformationPush.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/discount.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/query/merchantsquery.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_25/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-515">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/event.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/Md5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/FushuKaiPiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/MaxCountMakeInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/NoMakeInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/invoiceInvalid/InvalidInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/DeviceQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/EncodingSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="176" column="39" selection-start-line="176" selection-start-column="39" selection-end-line="176" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/InvoicePrintingQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/QueryInvoiceStatistical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/QuerySpbm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantPush/GetAccessToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantPush/MerchantPush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantQuery/GetAccessToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/merchantQuery/MerchantQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/multiThread/MultiThreadOnAnnotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/multiThread/MultiThreadOnXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/PageMarginSetting/PageMarginSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/Query/HttpClientQueryAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/smartprint/SmartPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/buquantaitou/BuQuanTaiTouAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/test/java/com/test/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/Openplatform/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="203" column="14" selection-start-line="203" selection-start-column="14" selection-end-line="203" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/deviceQuery/GetAccessToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="164" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetJuanPiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="72" column="82" selection-start-line="72" selection-start-column="82" selection-end-line="72" selection-end-column="82" />
+          <folding>
+            <element signature="method#maxJuanMakeInvoice#0;class#GetJuanPiao#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/juanpiao/juanpiao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/zengzhuan/zengzhuan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/zengpu/zengpu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetZengZhuanInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetZengPuInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/testCase/ThirdInvoiceIncoming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/GetAccessToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/resources/kaipiao/zhengchangkaipiao1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceTest/src/main/java/com/shuzutech/interfacetest/makeInvoice/HttpClientAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="119" column="69" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="69" />
+          <folding>
+            <element signature="method#makeInvoiceYouhui#0;class#HttpClientAuth#0" />
+            <element signature="method#makeInvoiceZhengchangKaipiao#0;class#HttpClientAuth#0" />
+            <element signature="method#ZhengchangKaipiao2#0;class#HttpClientAuth#0" />
+            <element signature="method#InexistenceRate#0;class#HttpClientAuth#0" />
+            <element signature="method#PreferentialMakeInvoice#0;class#HttpClientAuth#0" />
+            <element signature="method#Discount#0;class#HttpClientAuth#0" />
+            <element signature="method#makeInvoiceduohang#0;class#HttpClientAuth#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InterfaceTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.48</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

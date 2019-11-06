@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="FPKJ">
+    <body>
+        <input>
+            <fpqqlsh>ZB1122334455667007</fpqqlsh>
+            <shnsrsbh>110101201707010037</shnsrsbh>
+            <jsbh>110101201707010037~~A10016420000196</jsbh>
+            <fplxdm>026</fplxdm>
+            <kplx>0</kplx>
+            <yhlx>0</yhlx>
+            <ghdwsbh>91320191MA1ML4CL25</ghdwsbh>
+            <ghdwmc>南京数族信息科技有限公司</ghdwmc>
+            <ghdwdzdh>南京市江北新区新科二路2号南大软件学院222D室02558801191</ghdwdzdh>
+            <ghdwyhzh>中国农业银行股份有限公司南京茶亭东街支行10107501040008319</ghdwyhzh>
+            <fyxm count="1">
+                <group xh="1">
+                    <fphxz>0</fphxz>
+                    <spmc>餐饮费用</spmc>
+                    <ggxh></ggxh>
+                    <dw></dw>
+                    <spsl>3</spsl>
+                    <dj>4</dj>
+                    <je>12</je>
+                    <sl>0</sl>
+                    <se>0</se>
+                    <spbm>3070401000000000000</spbm>
+                    <zxbm></zxbm>
+                    <yhzcbs>1</yhzcbs>
+                    <lslbs>2</lslbs>
+                    <zzstsgl>即征即退</zzstsgl>
+                </group>
+            </fyxm>
+            <bz>beizhu</bz>
+            <skr>管理员3</skr>
+            <fhr>管理员4</fhr>
+            <kpr>管理员2</kpr>
+            <yfpdm></yfpdm>
+            <yfphm></yfphm>
+            <sprsjh>13701476279</sprsjh>
+        </input>
+    </body>
+</business>

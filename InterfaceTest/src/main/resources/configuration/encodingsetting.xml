@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="SPBMSZ">
+    <body>
+        <input>
+            <jsbh>554433221100001~~499111004288</jsbh>
+            <nsrsbh>554433221100001</nsrsbh>
+            <bm></bm>
+            <pid>1000000000000000000</pid>
+            <mc>货物</mc>
+            <spbmjc>货物</spbmjc>
+            <sm></sm>
+            <zzstsgl>简易征收</zzstsgl>
+            <zzszcyj></zzszcyj>
+            <zzstsgldm></zzstsgldm>
+            <xfsgl></xfsgl>
+            <xfszcyj></xfszcyj>
+            <xfstsgldm></xfstsgldm>
+            <gjz></gjz>
+            <kyzt>Y</kyzt>
+            <bb>32.0</bb>
+            <gdqjzsj></gdqjzsj>
+            <qysj></qysj>
+            <gxsj></gxsj>
+            <yhlx></yhlx>
+            <mslx></mslx>
+            <kysl>0、0.03、0.09</kysl>
+            <sl>0.03</sl>
+            <ggxh>大</ggxh>
+            <jldw>斤</jldw>
+            <dj>20</dj>
+            <hsbz></hsbz>
+            <zzssl>0.09</zzssl>
+            <hgpm></hgpm>
+            <gmtjdm></gmtjdm>
+        </input>
+    </body>
+</business>

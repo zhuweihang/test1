@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business id="FPCX">
+    <body>
+        <input>
+            <jsbh>110101201707010057~~499000152456</jsbh>
+            <fplxdm>026</fplxdm>
+            <cxfs>1</cxfs>
+            <cxtj>ZB01010101010102</cxtj>
+        </input>
+    </body>
+</business>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="FPKJ">
+    <body>
+        <input>
+            <fpqqlsh>M1122334455667002</fpqqlsh>
+            <shnsrsbh>554433221100001</shnsrsbh>
+            <jsbh>554433221100001~~499111004288</jsbh>
+            <fplxdm>026</fplxdm>
+            <kplx>0</kplx>
+            <yhlx>0</yhlx>
+            <ghdwsbh>91320191MA1ML4CL25</ghdwsbh>
+            <ghdwmc>南京数族信息科技有限公司</ghdwmc>
+            <ghdwdzdh>南京市江北新区新科二路2号南大软件学院222D室02558801191</ghdwdzdh>
+            <ghdwyhzh>中国农业银行股份有限公司南京茶亭东街支行10107501040008319</ghdwyhzh>
+            <xhdwdzdh>南京市雨花台区软件大道66号，华通科技园</xhdwdzdh>
+            <xhdwyhzh>招商银行鼓楼分行10107501040008320</xhdwyhzh>
+            <fyxm count="2">
+                <group xh="1">
+                <fphxz>2</fphxz>
+                <spmc>餐饮费用</spmc>
+                <ggxh></ggxh>
+                <dw></dw>
+                <spsl>1.12</spsl>
+                <dj>18</dj>
+                <je>20.16</je>
+                <sl>0.06</sl>
+                <se>1.21</se>
+                <spbm>3070401000000000000</spbm>
+                <zxbm></zxbm>
+                <yhzcbs>0</yhzcbs>
+                <lslbs></lslbs>
+                <zzstsgl></zzstsgl>
+            </group>
+                <group xh="2">
+                    <fphxz>1</fphxz>
+                    <spmc>餐饮费用</spmc>
+                    <ggxh></ggxh>
+                    <dw></dw>
+                    <spsl></spsl>
+                    <dj></dj>
+                    <je>-0.16</je>
+                    <sl>0.06</sl>
+                    <se>-0.0096</se>
+                    <spbm>3070401000000000000</spbm>
+                    <zxbm></zxbm>
+                    <yhzcbs>0</yhzcbs>
+                    <lslbs></lslbs>
+                    <zzstsgl></zzstsgl>
+                </group>
+            </fyxm>
+            <bz>beizhu</bz>
+            <skr>管理员3</skr>
+            <fhr>管理员4</fhr>
+            <kpr>管理员2</kpr>
+            <yfpdm></yfpdm>
+            <yfphm></yfphm>
+            <sprsjh></sprsjh>
+        </input>
+    </body>
+</business>

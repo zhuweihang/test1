@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business id="ZNDY">
+    <body>
+        <input>
+            <jsbh>110101201707010057~~00BB608AA4A8</jsbh>
+            <fplxdm>004</fplxdm>
+            <fpqqlsh>ZZZB010101010110109</fpqqlsh>
+            <fpdm></fpdm>
+            <fphm></fphm>
+            <dylx>0</dylx>
+            <dyfs>2</dyfs>
+            <printername>Microsoft Print to PDF</printername>
+        </input>
+    </body>
+</business>
